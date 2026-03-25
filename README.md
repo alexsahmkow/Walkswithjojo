@@ -1,2 +1,2 @@
-# Walkingwithjojo
+# Walkswithjojo
 dog walking and boarding
